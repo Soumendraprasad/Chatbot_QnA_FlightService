@@ -1,3 +1,3 @@
 # Chatbot_QnA_FlightService
 I made a chatbot for assist customers &amp; resolve their queries related to flight services .
-<img src ="https://www.soais.com/wp-content/uploads/2020/12/UiPath-Chatbot.jpg)https://www.soais.com/wp-content/uploads/2020/12/UiPath-Chatbot.jpg" width=400 height=450/>
+<img src ="[https://www.soais.com/wp-content/uploads/2020/12/UiPath-Chatbot.jpg)https://www.soais.com/wp-content/uploads/2020/12/UiPath-Chatbot.jpg](https://siamcomputing.com/wp-content/uploads/2022/05/Chatbot.png)https://siamcomputing.com/wp-content/uploads/2022/05/Chatbot.png" width=400 height=450/>
